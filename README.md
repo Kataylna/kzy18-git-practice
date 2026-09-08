@@ -1,4 +1,4 @@
 # Developer Profile
-**Name:** Kataylna Hinojosa
+**Developer:** Kataylna Hinojosa
 **Hobby:** Boxing
 **Preferred Development Tool:** VS Code
