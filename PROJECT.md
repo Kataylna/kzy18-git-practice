@@ -1,7 +1,7 @@
 # Project Idea
 ## Project Name
-Study Buddy Finder
+Campus Parking Finder
 ## Problem to Solve
-TBD
+Not enough parking spaces on campus
 ## Target User
 TBD
