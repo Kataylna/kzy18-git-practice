@@ -1,6 +1,6 @@
 # Project Idea
 ## Project Name
-Study Buddy Finder
+Campus Parking Finder
 ## Problem to Solve
 Not enough parking spaces on campus
 ## Target User
