@@ -1,6 +1,6 @@
 # Project Idea
 ## Project Name
-TBD
+Study Buddy Finder
 ## Problem to Solve
 TBD
 ## Target User
