@@ -4,4 +4,4 @@ Study Buddy Finder
 ## Problem to Solve
 Not enough parking spaces on campus
 ## Target User
-TBD
+students
